@@ -3,7 +3,7 @@ This repository is dedicated to showcasing my projects and expertise in machine 
 
 ## Table of Contents
 
-[Project 1](link_to_project1): Conversion of a, b, c into the discriminant using TensorFlow
+[Project 1](Introduction_To_Deep_Learning_Using_TensorFlow_Speaker_For_GDSC.ipynb): Conversion of a, b, c into the discriminant using TensorFlow
 
 ## Installation
 
