@@ -11,6 +11,11 @@ This repository is dedicated to showcasing my projects and expertise in machine 
 
    ```shell
    git clone https://github.com/natexjake/Machine-Learning-and-Deep-Learning.git
+
+2. Install the required dependencies:
+
+   ```shell
+   pip install -r requirements.txt
    
 ## Usage
 Each project is organized into its own directory. Navigate to the specific project directory to access the code, models, datasets, and any relevant documentation.
